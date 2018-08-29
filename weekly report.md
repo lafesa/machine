@@ -1,5 +1,5 @@
 ##                                ParrotAilPT-2018:WEEKLY REPORT
-# WEEK1 REPORT
+## WEEK1 REPORT
 On the first week of this ParrotAilPT-2018 ,I learn a lot of things that can help me to understand machine 
 learning  by using python language.On week one i learning the following key concept: </br>                                                     
         </br>   1.Introduction to Machine Learning </br>                                                                                                 
@@ -65,7 +65,7 @@ concern this language and that can help me to be competence.
 This deals with information of user's and item's.  </br>                                                                                       
 Example: Content-based system which make recommendation using user's profile and item features.</br>                                              
 In this we assume that the user's interest of the past can be future interest.  </br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </br>2. User-item interactions                                                                                                                                                                                         
- This deals with information such as sales, which product needed more by user.
+ This deals with information such as sales, which product needed more by user.</br>
  Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's. </br>                                 
  To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</br>
                                                                                                                                       collaborative filters achieve this goals by using two method which are memory-based,model-based</br>
