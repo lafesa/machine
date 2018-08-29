@@ -1,0 +1,83 @@
+##                                ParrotAilPT-2018:WEEKLY REPORT
+
+## WEEK3 REPORT
+
+  On this week i learn how to predict user's interest and to simplify search of common recommended item's that user's are likely interest with, we can achieve this by using recommender system and also on this week i understand imbalance concept.
+                        
+ #                              Introduction                                                                                                   
+  Recommender can help companies to gain competitive advantage to the competitors. In recommender system i understand the following concept:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </br>1.  Why recommender system were used in different companies?                                                                  
+           2. Advantage of implementing recommender system.                                                                                     
+           3. Which type i can use to implementing recommender system and why i use it?                                                          
+           4. Things to consider before i building a recommender system.                                                                   
+           5. Challenge that facing  recommender system.                                                                                         
+           6. how evaluation of recommender system.
+  
+ #                             Types of recommender system
+							  
+   On this i learn two types of recommender system that used in implementation which are: </br>                                                       
+          </br> 1. Characteristic information                                                                                                          
+This deals with information of user's and item's.                                                                                         
+Example: Content-based system which make recommendation using user's profile and item features.                                              
+In this we assume that the user's interest of the past can be future.   </br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </br>2. User-item interactions                                                                                                                                                                                         
+ This deals with information such as sales, which product needed more by user.
+ Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's.                                  
+ To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</b>
+                                                                                                                                      collaborative filters achieve this goals by using two method:
+               </br>1.Memory-based
+               </br>2.Model-based
+                
+  #                        Evaluation of recommender system
+  Evaluation can  be done by following method which are:                                                                          
+                 </br> 1.Online
+                 </br> 2. Offline
+                                                                                                                                         
+                                                                                                                                         
+#                      Imbalance concept                                                                                                                                         
+This used to decrease or increase majority and minority in samples,the following are techniques used :</br>
+                   </br>1.Re-sampling techniques                     
+                 </br>  2.Cost-sensitive techniques</br>
+</br> 1. Re-sampling                                                                                                                                                                                                                                        
+On this imbance concept i learn on re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.</br>
+
+</br>  1.Over-sampling                                                                                                                             
+This can increase number of minority to attain majority equilibrium.                                                                                 
+Example:SMOTE                
+
+ </br> 2.Under-sampling                                                                                                                      
+This can reduce the number of majority to attain minority equilibrium.                                                                           
+Example: NearMiss.
+
+#                       Challenge week one review
+On this week we review week one challenge and we implement sampling concept for imbalance(over-sampling) and also we learn how to arrange you work in good manner.                                                                                                          
+Also on this we learn about confusion matrix how it can help you to choice the best model for you challange and also we were saw the different between uses of sampling and without sampling on model.
+
+Generally the implementation of imbalance to dataset it can help to reduce the fairness decision  based on large number of certain class and also recommendation it help companies to increase the productive of item's.
+
+
+
+
+
+##                                                         WEEK4 REPORT
+
+  Hi,on this week i learn intoduction to competition,how to win kaggle competition and which element can led me to win  competition.
+  Competition having the following essential element to consider which are data,model,submission,evaluation </br> and leaderboard.
+
+   Also in kaggle competion tutorial i learn about explanatory data analysis which can help me to understand data and to generate 
+  hypothesis.Win kaggle tutorial it cover a lot of things that was already taught by sir!SAMBAIGA include deep explanation about 
+  different model and how to implement them.<br>     
+    On this week,we work on project as team and we try to build the strong model and set conducive interface that can help </br> bank 
+  on provision of loan to customers in order to avoid risk.On this we achieve 50% (percent) of our project work and </br>also on this 
+  we try to use sampling concept to our problem in order to increase number of minority to attain equilibrium </br>level of majority.</br>       
+     On this week also we discuss strategies for structuring machine learning project in this we discuss different 
+   concept that</br>help to improve performance in our model,also we learn about evaluation metric and data,and what is the effect of </br>single metric in performance. </br>             
+     Also we learn how to quantify human level performance work on bias and variance gap,bias is the gap between human </br> and training 
+   performance while variance is the gap between training  and dev performance. </br>    
+       Generally:On this week i learn a lot of things and i solve different problems practically,this week is awesome to me. 	
+  </br>Special thanks to sir!Sambaiga who use a lot of time to spread knowledge and i real appeciate you help.
+    	 
+   
+   
+   
+  
+     
+   
