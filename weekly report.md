@@ -1,4 +1,37 @@
 ##                                ParrotAilPT-2018:WEEKLY REPORT
+# WEEK 1 REPORT
+On the first week of this ParrotAilPT-2018 ,I learn a lot of things that can help me to understand machine 
+learning  by using python language.On week one i learning the following key concept: </br>                                                     
+        </br>   1.Introduction to Machine Learning </br>                                                                                                 
+On this i try to understand what machine learning deals with ,how i can use machine learning to solve  
+problem and I try to know how machine learning can extract knowledge from a data.And i achieve this through 
+learning different books that concern machine learning concept such as Introduction to machine learning book
+Hands on book.     </br>                                                                                                                               
+          </br> 2.Main categories of Machine learning </br>                                                                                                  
+There are two main categories which are supervised and unsupervised machine learning but on that week 
+i was learned about supervised machine learning algorithms which are: </br>                                                                          
+               1.linear model                                                                                                                               
+               2.K-Nearest Neighbor                                                                                                         
+               3.Random Forest                                                                                                                
+               4.Decision Tree                                                                                                                   
+               5.Naive Bayes                                                                                                                     
+               6.Support Vector Machine   </br>                                                                                                       
+On this algorithms i learned how i can use cross-validation to minimize overfitting and also i was learned 
+before you fit the model you must check you dataset if there is any missing data and to clean that dataset.
+
+Something i noted on my mind in order to perform this algorithm you must know essential library such as 
+pandas for data analysis and visulization, and matplotlib,sklearn,numpy.
+
+Also i learn how to analysis data,fix missing value,feature selection and conversion of categorical,ordinal 
+data into numerical data.                                                                                                                   
+Challenge i face on learning this language for me i need alot of time to build python concept because 
+this is new language to me.
+
+Generally:This IPT is best in CIVE and through weekly challenge for my part i can know many things that
+concern this language and that can help me to be competence.
+  
+           
+
 
 ## WEEK3 REPORT
 
