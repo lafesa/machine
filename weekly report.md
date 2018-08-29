@@ -1,8 +1,8 @@
 ##                                ParrotAilPT-2018:WEEKLY REPORT
 ## WEEK1 REPORT
-On the first week of this ParrotAilPT-2018 ,I learn a lot of things that can help me to understand machine 
+On the first week of this ParrotAilPT-2018 ,i learn a lot of things that can help me to understand machine 
 learning  by using python language.On week one i learning the following key concept: </br>                                                     
-        </br>   1.Introduction to Machine Learning </br>                                                                                                 
+        </br>   1.Introduction to Machine Learning </br>                                                                      
 On this i try to understand what machine learning deals with ,how i can use machine learning to solve  
 problem and I try to know how machine learning can extract knowledge from a data.And i achieve this through 
 learning different books that concern machine learning concept such as Introduction to machine learning book
