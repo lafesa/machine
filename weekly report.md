@@ -61,10 +61,10 @@ concern this language and that can help me to be competence.
   
 							  
    Recommender system are divided into two types which show relationship between companies and their user's,the below are the types of recommender:                                                                                                                                                                                                     
-           1. Characteristic information                                                                                                          
-This deals with information of user's and item's.  </br>                                                                                       
-Example: Content-based system which make recommendation using user's profile and item features.</br>                                              
-In this we assume that the user's interest of the past can be future interest.  </br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </br>2. User-item interactions                                                                                                                                                                                         
+         </br>  1. Characteristic information                                                                                                          
+This deals with information of user's and item's.  </br>                                                                            
+Example: Content-based system which make recommendation using user's profile and item features.</br>                                    
+In this we assume that the user's interest of the past can be future interest.  </br>                                                                                                                                                                                                     </br>2. User-item interactions                                                                                                                                                                                         
  This deals with information such as sales, which product needed more by user.</br>
  Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's. </br>                                 
  To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</br>
