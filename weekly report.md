@@ -2,7 +2,7 @@
 
 ## WEEK3 REPORT
 
-  On this week i learn how to predict user's interest and to simplify search of common recommended item's that user's are likely interest with, we can achieve this by using recommender system and also on this week i understand imbalance concept.
+  On this week i learn how to predict user's interest and to simplify search of common recommended item's that user's are likely interest with, we can achieve this by using recommender system and also on this week i review about imbalance concept.
                         
  #                              Introduction                                                                                                   
   Recommender can help companies to gain competitive advantage to the competitors. In recommender system i understand the following concept:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </br>1.  Why recommender system were used in different companies?                                                                  
@@ -51,7 +51,14 @@ Example: NearMiss.
 On this week we review week one challenge and we implement sampling concept for imbalance(over-sampling) and also we learn how to arrange you work in good manner.                                                                                                          
 Also on this we learn about confusion matrix how it can help you to choice the best model for you challange and also we were saw the different between uses of sampling and without sampling on model.
 
-Generally the implementation of imbalance to dataset it can help to reduce the fairness decision  based on large number of certain class and also recommendation it help companies to increase the productive of item's.
+Generally the implementation of imbalance to dataset it can help to reduce the fairness decision  based on large number of certain class and also recommendation it help companies to increase the productive of item's.</br>
+
+
+
+
+
+
+
 
 
 
