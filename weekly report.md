@@ -31,22 +31,53 @@ concern this language and that can help me to be competence.
   
            
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
+# WEEK2 REPORT
+On this week i learn fundamental concept of deep learning which includes the following aspects:
+                                </br>    1.Introduction </br>                                                                 
+ On this i understand the difference between machine learning and deep learning, why we use deep learning rather than machine learning to solve different problem that surround our environment. And also i learn how deep learning works and how i can use activation function to transform linear function to non-linearity.And i was achieve this through reading book  and sambaiga notes on gitlab ParrotAilPT-2018 group that concern deep learning concept.                                                                                                                                                                                                                               
+                                   </br>   2.Training deep neural network </br>
+  On this i understand how to train deep neural network and which things i can consider to minimize loss function in both binary and multiclass classification and which activation function i can use on both binary and multiclass classification. In binary will define loss function by(Binary Cross Entropy) and multiclass(cross entropy loss) .Also i compute gradient by using(Backpropagation) and to solve optimization problem that can help me to optimize my model and how i can use momentum to accelerate SGD optimizer to attain global minima.
+ Generally on this DDN we deals on three step for formulating ML problem which are:  
+                                    1.Hypothesis                                                                                                                                                                                                                       
+                                    2.loss function                                                                                              
+                                    3.Optimization                                                                                                                                                                                                                                      
+                          </br>   3.Deep learning techniques </br>
+On this i learn two technique that help you to improve performance and stability of deep learning network which are:
+                                  </br>1.Regularization
+                                 </br> 2.Batch-Normalization                                                                                                                                                                                                                           
+                                  </br> 4.Deep learning architecture</br>
+ On this i understand how convolution neural network and recurrent neural network architecture are differ and how it work and why RNN is suitable for long item dimension and sequence data rather than CNN.The following are explanation of that architecture:
+                                    </br>  Convolution neural network</br>
+CNN implementation on this we use pytorch to build convolution neural network procedure to follow when you build CNN by using pytorch:  
+                     </br> 1.You must import all necessary libraries and modules that you want to use.
+                     </br> 2.Load train and test datasets by using (dataloader and tensordatasets) or numpy module(loadtxt)
+                        for handling data then the output of this we transform to tensor.
+                     </br> 3.When you use numpy module to load data you must convert them into tensor by using from_numpy  
+                        modules.
+                     </br> 4.We make our data loader into batch by setting batch_size and to be iteratable.
+                     </br> 5.we define our CNN model here we use conversation layer with maxpool for reduce number of neuron
+                        and also we use activation function for conversation into non-linearity note we don't apply
+                        activation function on output layer.
+                     </br> 6.We define loss function and optimizer function
+                     </br> 7.We train network for this we do forward pass computation with mini-batch
+                      then clear gradient with respect to parameter  backward pass and  to compute gradient
+                      followed by updating step.
+                     </br> 8.we test the network on the test data and visualize our data.                                                                                                                                                                                                
+                                      </br> 5.Sequence modelling </br>
+On this i understand the requirement for model sequence which are:      
+                         </br> 1.It deals with variable-length sequence and maintain sequence.
+                          </br>2.Keep track of long-term dependencies.
+                         </br> 3.It allow to share parameters across the sequence.                                                                  
+Something i noted about RNN is the family of sequence modelling because it contain all information about past sequence.
+Sequence modelling also include back propagation over each time.                                                                                                                                                                                                                        
+                                     </br>  Back propagation through time</br>
+On this i understand how back propagation can solving vanishing and exploding gradient problem and how to address them.
+                           Vanishing gradient problem are address by using:
+			       </br>1.Long short-term memory(LSTM)
+                             </br> 2.Gated recurrent unit(GRU) </br>                                                                                                                                                                                                                                                            
+Challenge i face on this it need a lot of mathematical concept and to understand basics hint of pytorch in order to be competence.                                                                                                                                                                 
+Generally: Through deep learning we able to develope system that can help society to solve different problem.
+     
 
 
 
