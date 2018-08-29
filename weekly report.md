@@ -2,12 +2,12 @@
 ## WEEK1 REPORT
 On the first week of this ParrotAilPT-2018 ,i learn a lot of things that can help me to understand machine 
 learning  by using python language.On week one i learning the following key concept: </br>                                                     
-        </br>   1.Introduction to Machine Learning </br>                                                                      
+        </br>   1.Introduction to machine learning </br>                                                                      
 On this i try to understand what machine learning deals with ,how i can use machine learning to solve  
 problem and I try to know how machine learning can extract knowledge from a data.And i achieve this through 
 learning different books that concern machine learning concept such as Introduction to machine learning book
 Hands on book.     </br>                                                                                                                               
-          </br> 2.Main categories of Machine learning </br>                                                                                                  
+          </br> 2.Main categories of machine learning </br>                                                                                                  
 There are two main categories which are supervised and unsupervised machine learning but on that week 
 i was learned about supervised machine learning algorithms which are: </br>                                                                          
                1.linear model                                                                                                                               
@@ -91,19 +91,18 @@ Generally: Through deep learning we able to develope system that can help societ
            6. how evaluation of recommender system.
   
 							  
-   Recommender system are divided into two types which show relationship between companies and their user's,the below are the types of recommender:                                                                                                                                                                                                     
+   Recommender system are divided into two types which show relationship between companies and their user's,the below are the types of recommender:                                                                                                                   
          </br>  1. Characteristic information                                                                                                          
 This deals with information of user's and item's.  </br>                                                                            
 Example: Content-based system which make recommendation using user's profile and item features.</br>                                    
-In this we assume that the user's interest of the past can be future interest.  </br>                                                                                                                                                                                                     </br>2. User-item interactions                                                                                                                                                                                         
+In this we assume that the user's interest of the past can be future interest.  </br>                                                              </br>2. User-item interactions                                                                                                                                                                                         
  This deals with information such as sales, which product needed more by user.</br>
  Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's. </br>                                 
  To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</br>
                                                                                                                                       collaborative filters achieve this goals by using two method which are memory-based,model-based</br>
                 
   Also in this week i learn how evaluation in recommender system can  be done by using the following method which are  online and offline.</br>                                                                                                                                     
-  Also on this week i learn about imbalance which used to decrease or increase majority and minority of classes,the following are techniques used re-sampling and cost-sensitive techniques.On this imbalance concept i deals with re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.</br>
-
+  Also on this week i learn about imbalance which used to decrease or increase majority and minority of classes,the following are techniques used re-sampling and cost-sensitive techniques.On this imbalance concept i deals with re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.
 </br>  1.Over-sampling                                                                                                                             
 This can increase number of minority to attain majority equilibrium.                                                                                 
 Example:SMOTE                
