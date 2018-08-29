@@ -66,16 +66,12 @@ This deals with information of user's and item's.
 Example: Content-based system which make recommendation using user's profile and item features.                                              
 In this we assume that the user's interest of the past can be future.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </br>2. User-item interactions                                                                                                                                                                                         
  This deals with information such as sales, which product needed more by user.
- Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's.                                  
+ Example:Collaborative filters in this we assume that interest of one user's also can be interest of other's. </br>                                 
  To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</br>
                                                                                                                                       collaborative filters achieve this goals by using two method which are memory-based,model-based</br>
                 
   Also in this week i learn how evaluation in recommender system can  be done by following method which are  Online,and Offline.</br>                                                                                                                                     
-  Also on this week i learn about imbalance which used to decrease or increase majority and minority in samples,the following are techniques used :</br>
-                   </br>1.Re-sampling techniques                     
-                 </br>  2.Cost-sensitive techniques</br>
-</br> 1. Re-sampling                                                                                                                                                                                                                                        
-On this imbance concept i learn on re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.</br>
+  Also on this week i learn about imbalance which used to decrease or increase majority and minority of classes,the following are techniques used re-sampling and cost-sensitive techniques.On this imbalance concept i deals with re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.</br>
 
 </br>  1.Over-sampling                                                                                                                             
 This can increase number of minority to attain majority equilibrium.                                                                                 
