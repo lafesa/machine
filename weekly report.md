@@ -60,8 +60,8 @@ concern this language and that can help me to be competence.
            6. how evaluation of recommender system.
   
 							  
-   Recommender system are divided into two types which show relationship between companies and their user's,the below are the types of recommender:                                                         
-          </br> 1. Characteristic information                                                                                                          
+   Recommender system are divided into two types which show relationship between companies and their user's,the below are the types of recommender:                                                                                                                                                                                                     
+           1. Characteristic information                                                                                                          
 This deals with information of user's and item's.  </br>                                                                                       
 Example: Content-based system which make recommendation using user's profile and item features.</br>                                              
 In this we assume that the user's interest of the past can be future interest.  </br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </br>2. User-item interactions                                                                                                                                                                                         
