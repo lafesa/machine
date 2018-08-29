@@ -42,7 +42,7 @@ concern this language and that can help me to be competence.
 
 
 
-
+ 
 
 
 
@@ -70,7 +70,7 @@ In this we assume that the user's interest of the past can be future interest.  
  To minimize the challenge of recommender types we can use hybrid system which combine all type of recommender.</br>
                                                                                                                                       collaborative filters achieve this goals by using two method which are memory-based,model-based</br>
                 
-  Also in this week i learn how evaluation in recommender system can  be done by following method which are  Online,and Offline.</br>                                                                                                                                     
+  Also in this week i learn how evaluation in recommender system can  be done by using the following method which are  online and offline.</br>                                                                                                                                     
   Also on this week i learn about imbalance which used to decrease or increase majority and minority of classes,the following are techniques used re-sampling and cost-sensitive techniques.On this imbalance concept i deals with re-sampling techniques only  which consist of two methods over-sampling and under-sampling,below are explanation about this methods.</br>
 
 </br>  1.Over-sampling                                                                                                                             
